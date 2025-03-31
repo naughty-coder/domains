@@ -834,3 +834,4 @@ nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/kpms.cc/4#inet#fw4#vpn_domains
 nftset=/cdnservices.link/4#inet#fw4#vpn_domains
+nftset=/kpdl.link/4#inet#fw4#vpn_domains
